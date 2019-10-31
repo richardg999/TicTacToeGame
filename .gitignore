@@ -1,0 +1,16 @@
+
+.DS_Store
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/.DS_Store
+out/production/.DS_Store
+out/production/TicTacToeGame/.DS_Store
+out/production/TicTacToeGame/tictactoe/Main$1.class
+out/production/TicTacToeGame/tictactoe/Main.class
+out/production/TicTacToeGame/tictactoe/State.class
+out/production/TicTacToeGame/tictactoe/TicTacToe$Player.class
+out/production/TicTacToeGame/tictactoe/TicTacToe.class
+src/.DS_Store
+TicTacToeGame.iml
